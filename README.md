@@ -23,7 +23,6 @@ The first script iterates of all word embedding models defined in config.py and 
 The second script evaluates the results of the first script against the gold standard data from the `datasets/` directory.
 
 ## More details
-The `datasets` contains the source code. 
 
 The `datasets` directory contains the starting point, which is a list of characters used in social network construction, and 
 it contains variants of the gold standard datasets created with crowdsourcing (CrowdFlower).
